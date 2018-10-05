@@ -1,0 +1,16 @@
+
+The following files have been resolved:
+   org.apache.tomcat:tomcat-jasper:jar:7.0.57:compile
+   org.apache.tomcat:tomcat-api:jar:7.0.57:compile
+   org.eclipse.jdt.core.compiler:ecj:jar:4.4:compile
+   org.apache.tomcat.embed:tomcat-embed-logging-juli:jar:7.0.57:compile
+   org.apache.tomcat:tomcat-juli:jar:7.0.57:compile
+   org.apache.tomcat:tomcat-util:jar:7.0.57:compile
+   org.apache.tomcat.embed:tomcat-embed-jasper:jar:7.0.57:compile
+   org.apache.tomcat:tomcat-jasper-el:jar:7.0.57:compile
+   org.apache.tomcat:tomcat-el-api:jar:7.0.57:compile
+   org.apache.tomcat:tomcat-jsp-api:jar:7.0.57:compile
+   org.apache.tomcat:tomcat-servlet-api:jar:7.0.57:compile
+   org.apache.tomcat.embed:tomcat-embed-el:jar:7.0.57:compile
+   org.apache.tomcat.embed:tomcat-embed-core:jar:7.0.57:compile
+
